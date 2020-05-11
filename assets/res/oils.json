@@ -1,0 +1,1460 @@
+{
+  "oils":[
+    {
+      "name": "Atlas Cedar",
+      "binomial": "Cedrus Atlantica",
+      "image": "atlas.jpg",
+      "description": "Cedarwood Essential Oil is said to be one of the first crude essential oils to be extracted, and it was one of the oils that the Egyptians used for spiritual embalming purposes.",
+      "uses": [
+        "Bronchitis",
+        "Coughs",
+        "Dandruff",
+        "Itching"
+      ],
+      "emotions": [
+        "Fear",
+        "Impatience",
+        "Indecision",
+        "Jealousy",
+        "Mood Swings",
+        "Self Confidence"
+      ],
+      "other": [
+        "Anti-Bacterial"
+      ]
+    },
+    {
+      "name": "Basil",
+      "binomial": "Ocimum Basilicum",
+      "image": "basil.jpg",
+      "description": "Basil, also called great basil, is a culinary herb of the family Lamiaceae. Basil is native to tropical regions from central Africa to Southeast Asia. It is a tender plant, and is used in cuisines worldwide.",
+      "uses": [
+        "Fatigue",
+        "Migraine",
+        "Poor Memory",
+        "Sinusitis"
+      ],
+      "emotions": [
+        "Exhaustion",
+        "Stress"
+      ],
+      "other": [
+        "Anti-Inflammatory",
+        "Anti-Spasmodic",
+        "Decongestive",
+        "Neurotonic",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Benzoin",
+      "binomial": "Styrax Benzoin",
+      "image": "benzoin.jpg",
+      "description": "Styrax benzoin is a species of tree native to Sumatra in Indonesia. Common names for the tree include gum benjamin tree, loban, kemenyan, onycha, and Sumatra benzoin tree.",
+      "uses": [
+      ],
+      "emotions": [
+        "Loneliness",
+        "Worry"
+      ],
+      "other": []
+    },
+    {
+      "name": "Bergamot",
+      "binomial": "Citrus Bergamia",
+      "image": "bergamot.jpg",
+      "description": "Citrus bergamia, the bergamot orange, is a fragrant citrus fruit the size of an orange, with a yellow or green color similar to a lime, depending on ripeness. Genetic research into the ancestral origins of extant citrus cultivars found bergamot orange to be a probable hybrid of lemon and bitter orange.",
+      "uses": [
+        "Candida",
+        "Eczema",
+        "Insomnia",
+        "Itching",
+        "Psoriasis"
+      ],
+      "emotions": [
+        "Anxiety",
+        "Claustrophobia",
+        "Depression",
+        "Frustration",
+        "Grief",
+        "Impatience",
+        "Indecision",
+        "Insecurity",
+        "Mood Swings",
+        "Negativity",
+        "Sadness",
+        "Tantrums"
+      ],
+      "other": [
+        "Anti-Bacterial",
+        "Anti-Viral",
+        "Deodorant",
+        "Neurotonic"
+      ]
+    },
+    {
+      "name": "Bergamot FCF",
+      "binomial": "Citrus Aurantium Bergamia",
+      "image": "bergamot-fcf.jpg",
+      "description": "Bergamot essential oil has antibacterial, deodorising, refreshing, soothing, and uplifting properties which make it excellent for body skincare preparations, for ensuring healthy and vital skin. Bergamot essential oil has a fresh, citrus and slightly spicy aroma and is powerfully refreshing, uplifting and invigorating and helps maintain a balanced mood.",
+      "uses": [
+        "Cold Sores",
+        "Insect Bites"
+      ],
+      "emotions": [],
+      "other": []
+    },
+    {
+      "name": "Bitter Orange",
+      "binomial": "Citrus x Aurantium",
+      "image": "bitter-orange.jpg",
+      "description": "Bitter orange, Seville orange, sour orange, bigarade orange, or marmalade orange is the citrus tree Citrus x Aurantium and its fruit. It is native to southeast Asia and has been spread by humans to many parts of the world.",
+      "uses": [
+        "Circulation",
+        "Varicose Veins"
+      ],
+      "emotions": [],
+      "other": [
+        "Astringent"
+      ]
+    },
+    {
+      "name": "Black Pepper",
+      "binomial": "Piper Nigrum",
+      "image": "pepper.jpg",
+      "description": "Black pepper is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. When fresh and fully mature, the fruit is about 5 mm in diameter and dark red, and contains a single seed, like all drupes.",
+      "uses": [
+        "Arthritis",
+        "Backache",
+        "Circulation",
+        "Cystitis",
+        "Fatigue",
+        "Indigestion",
+        "Influenza",
+        "Muscular Aches",
+        "Period Pains",
+        "Rheumatism",
+        "Sciatica",
+        "Sprains",
+        "Toothache"
+      ],
+      "emotions": [
+        "Exhaustion"
+      ],
+      "other": [
+        "Analgesic",
+        "Aphrodisiac",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Cajuput",
+      "binomial": "Melaleuca Cajuputi",
+      "image": "cajuput.jpg",
+      "description": "Melaleuca cajuputi, commonly known as cajuput or white samet is a plant in the myrtle family, Myrtaceae and is widespread in Australia, Southeast Asia, New Guinea and the Torres Strait islands. It is a medium to tall tree with papery bark, silvery new growth and white or greenish flower spikes.",
+      "uses": [
+        "Catarrh"
+      ],
+      "emotions": [],
+      "other": [
+        "Expectorant"
+      ]
+    },
+    {
+      "name": "Cardamom",
+      "binomial": "Elettaria and Amomum",
+      "image": "cardamom.jpg",
+      "description": "Cardamom, sometimes cardamon or cardamum, is a spice made from the seeds of several plants in the genera Elettaria and Amomum in the family Zingiberaceae. Both genera are native to the Indian subcontinent and Indonesia.",
+      "uses": [
+        "Fatigue",
+        "Indigestion",
+        "Nausea",
+        "Poor Memory",
+        "Travel Sickness"
+      ],
+      "emotions": [
+        "Claustrophobia",
+        "Exhaustion",
+        "Guilt"
+      ],
+      "other": []
+    },
+    {
+      "name": "Cinnamon Leaf",
+      "binomial": "Cinnamomum Zeylandicum",
+      "image": "cinnamon-leaf.png",
+      "description": "Cinnamon leaf oils contain at least 80% phenols organic aromatic compounds with a variety of antiseptic, antimicrobial, antioxidant and anesthetic healing properties. Cinnamon oil is also derived from the plant's leaves and bark.",
+      "uses": [
+        "Head Lice",
+        "Toothache"
+      ],
+      "emotions": [],
+      "other": [
+        "Anti-Bacterial",
+        "Fungicidal",
+        "Immunostimulant",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Citronella",
+      "binomial": "Cymbopogon",
+      "image": "citronella.jpg",
+      "description": "Citronella oil is an essential oil obtained from the leaves and stems of different species of Cymbopogon. The oil is used extensively as a source of perfumery chemicals such as citronellal, citronellol, and geraniol.",
+      "uses": [
+      ],
+      "emotions": [],
+      "other": [
+        "Deodorant",
+        "Insect Repellent"
+      ]
+    },
+    {
+      "name": "Clary Sage",
+      "binomial": "Salvia Sclarea",
+      "image": "clary.jpg",
+      "description": "Salvia sclarea, the clary or clary sage, is a biennial or short-lived herbaceous perennial in the genus Salvia. It is native to the northern Mediterranean Basin, along with some areas in north Africa and Central Asia. The plant has a lengthy history as an herb, and is currently grown for its essential oil.",
+      "uses": [
+        "Insomnia",
+        "Menopause",
+        "Period Pains",
+        "PMS"
+      ],
+      "emotions": [
+        "Anxiety",
+        "Claustrophobia",
+        "Grief",
+        "Hysteria",
+        "Indecision",
+        "Irritability",
+        "Loneliness",
+        "Mood Swings",
+        "Negativity",
+        "Panic",
+        "Restlessness",
+        "Stress",
+        "Tantrums",
+        "Worry"
+      ],
+      "other": [
+        "Anti-Spasmodic",
+        "Aphrodisiac",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Clove",
+      "binomial": "Syzygium Aromaticum",
+      "image": "clove-bud.jpg",
+      "description": "Cloves are the aromatic flower buds of a tree in the family Myrtaceae, Syzygium aromaticum. They are native to the Maluku Islands in Indonesia, and are commonly used as a spice. Cloves are available throughout the year due to different harvest seasons in different countries.",
+      "uses": [
+        "Diarrhoea",
+        "Poor Memory",
+        "Toothache"
+      ],
+      "emotions": [],
+      "other": [
+        "Analgesic",
+        "Fungicidal",
+        "Immunostimulant",
+        "Insect Repellent",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Coriander",
+      "binomial": "Coriandrum Sativum",
+      "image": "coriander.jpg",
+      "description": "Coriander is an annual herb in the family Apiaceae. It is also known as Chinese parsley, and in the United States the stems and leaves are usually called cilantro. All parts of the plant are edible, but the fresh leaves and the dried seeds are the parts most traditionally used in cooking.",
+      "uses": [
+        "Travel Sickness"
+      ],
+      "emotions": [
+        "Mood Swings",
+        "Sadness",
+        "Worry"
+      ],
+      "other": []
+    },
+    {
+      "name": "Cypress",
+      "binomial": "Cupressus Sempervirens",
+      "image": "cypress.jpg",
+      "description": "Cupressus is one of several genera within the family Cupressaceae that have the common name cypress; for the others, see cypress. It is considered a polyphyletic group. Based on genetic and morphological analysis, the genus Cupressus is found in the subfamily Cupressoideae.",
+      "uses": [
+        "Asthma",
+        "Cellulite",
+        "Coughs",
+        "Menopause",
+        "Oedema",
+        "Varicose Veins",
+        "Warts"
+      ],
+      "emotions": [
+        "Bereavement",
+        "Fear",
+        "Grief",
+        "Guilt",
+        "Jealousy",
+        "Sadness"
+      ],
+      "other": [
+        "Anti-Spasmodic",
+        "Astringent",
+        "Deodorant",
+        "Diuretic",
+        "Neurotonic"
+      ]
+    },
+    {
+      "name": "Elemi",
+      "binomial": "Canarium Luzonicum",
+      "image": "elemi.jpg",
+      "description": "Canarium luzonicum, commonly known as elemi, is a tree native to the Philippines. The oleoresin harvested from it is also known as elemi.",
+      "uses": [
+      ],
+      "emotions": [
+        "Loneliness"
+      ],
+      "other": []
+    },
+    {
+      "name": "Eucalyptus",
+      "binomial": "Eucalyptus Globulus",
+      "image": "eucalyptus.png",
+      "description": "",
+      "uses": [
+        "Athlete's Foot",
+        "Backache",
+        "Candida",
+        "Cold Sores",
+        "Hay Fever",
+        "Head Lice",
+        "Inflammation",
+        "Influenza",
+        "Muscular Aches",
+        "Neuralgia",
+        "Sciatica",
+        "Sinusitis",
+        "Sore Throat",
+        "Sprains"
+      ],
+      "emotions": [],
+      "other": [
+        "Anti-Bacterial",
+        "Anti-Inflammatory",
+        "Anti-Viral",
+        "Decongestive",
+        "Expectorant",
+        "Fungicidal",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Eucalyptus Radiata",
+      "binomial": "Eucalyptus radiata",
+      "image": "radiata.jpg",
+      "description": "Eucalyptus radiata, commonly known as the narrow-leaved peppermint or Forth River peppermint, is a species of tree that is endemic to south-eastern Australia.",
+      "uses": [
+        "Bronchitis",
+        "Burns",
+        "Coughs"
+      ],
+      "emotions": [],
+      "other": []
+    },
+    {
+      "name": "Everlasting Flower",
+      "binomial": "Helichrysum",
+      "image": "everlasting.jpg",
+      "description": "The genus Helichrysum consists of an estimated 600 species of flowering plants in the sunflower family. The type species is Helichrysum orientale. The name is derived from the Greek words ἑλίσσω and χρῡσός. It occurs in Africa, Madagascar, Australasia and Eurasia.",
+      "uses": [
+        "Bruises",
+        "Burns",
+        "Dermatitis",
+        "Hay Fever",
+        "Hives",
+        "Inflammation",
+        "Itching",
+        "Sunburn"
+      ],
+      "emotions": [
+        "Anger",
+        "Jealousy",
+        "Negativity",
+        "Regret",
+        "Tantrums"
+      ],
+      "other": []
+    },
+    {
+      "name": "Fennel",
+      "binomial": "Foeniculum Vulgare",
+      "image": "fennel.jpg",
+      "description": "",
+      "uses": [
+        "Bruises",
+        "Cellulite",
+        "Indigestion",
+        "Menopause",
+        "Nausea",
+        "Oedema"
+      ],
+      "emotions": [],
+      "other": [
+        "Anti-Spasmodic",
+        "Diuretic"
+      ]
+    },
+    {
+      "name": "Frankincense",
+      "binomial": "Boswellia",
+      "image": "frankincense.jpg",
+      "description": "Frankincense is an aromatic resin used in incense and perfumes, obtained from trees of the genus Boswellia in the family Burseraceae, particularly Boswellia sacra, B. carterii, B. frereana, B. serrata, and B. papyrifera. The word is from Old French franc encens.",
+      "uses": [
+        "Asthma",
+        "Coughs",
+        "Dermatitis",
+        "Eczema",
+        "Insomnia",
+        "Psoriasis",
+        "Sunburn"
+      ],
+      "emotions": [
+        "Anger",
+        "Bereavement",
+        "Claustrophobia",
+        "Fear",
+        "Frustration",
+        "Hysteria",
+        "Impatience",
+        "Panic",
+        "Restlessness",
+        "Shock",
+        "Worry"
+      ],
+      "other": [
+        "Anti-Inflammatory",
+        "Expectorant",
+        "Immunostimulant"
+      ]
+    },
+    {
+      "name": "Galbanum",
+      "binomial": "Ferula",
+      "image": "galbanum.jpg",
+      "description": "Galbanum is an aromatic gum resin and a product of certain umbelliferous Persian plant species in the genus Ferula, chiefly Ferula gummosa and Ferula rubricaulis. Galbanum-yielding plants grow plentifully on the slopes of the mountain ranges of northern Iran.",
+      "uses": [
+        "Rheumatism"
+      ],
+      "emotions": [],
+      "other": []
+    },
+    {
+      "name": "Geranium",
+      "binomial": "Pelargonium Graveolens",
+      "image": "geranium.jpg",
+      "description": "Pelargonium is a genus of flowering plants which includes about 200 species of perennials, succulents, and shrubs, commonly known as geraniums, pelargoniums, or storksbills. Confusingly, Geranium is the botanical name and common name of a separate genus of related plants. Both genera belong to the family Geraniaceae.",
+      "uses": [
+        "Diarrhoea",
+        "Burns",
+        "Cellulite",
+        "Cold Sores",
+        "Jet Lag",
+        "Menopause",
+        "Neuralgia",
+        "Oedema",
+        "PMS",
+        "Shingles",
+        "Sore Throat",
+        "Sunburn",
+        "Varicose Veins"
+      ],
+      "emotions": [
+        "Anger",
+        "Claustrophobia",
+        "Depression",
+        "Insecurity",
+        "Irritability",
+        "Mood Swings",
+        "Stress"
+      ],
+      "other": [
+        "Anti-Bacterial",
+        "Astringent",
+        "Diuretic",
+        "Immunostimulant",
+        "Insect Repellent"
+      ]
+    },
+    {
+      "name": "German Chamomile",
+      "binomial": "Matricaria Chamomilla",
+      "image": "german-chamomile.jpg",
+      "description": "Matricaria chamomilla, commonly known as chamomile, German chamomile, Hungarian chamomile, wild chamomile, blue chamomile, scented mayweed, is an annual plant of the composite family Asteraceae.",
+      "uses": [
+        "Arthritis",
+        "Burns",
+        "Dermatitis",
+        "Eczema",
+        "Hives",
+        "Inflammation",
+        "Itching",
+        "Migraine",
+        "Muscular Aches",
+        "Neuralgia",
+        "Period Pains",
+        "Rheumatism",
+        "Sprains"
+      ],
+      "emotions": [],
+      "other": [
+        "Analgesic",
+        "Anti-Inflammatory",
+        "Anti-Spasmodic",
+        "Fungicidal",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Ginger",
+      "binomial": "Zingiber Officinale",
+      "image": "ginger.jpg",
+      "description": "Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine. It is a herbaceous perennial which grows annual pseudostems about one meter tall bearing narrow leaf blades.",
+      "uses": [
+        "Diarrhoea",
+        "Arthritis",
+        "Circulation",
+        "Indigestion",
+        "Jet Lag",
+        "Nausea",
+        "Travel Sickness"
+      ],
+      "emotions": [
+        "Indecision",
+        "Self Confidence"
+      ],
+      "other": [
+        "Analgesic",
+        "Aphrodisiac",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Grapefruit",
+      "binomial": "Citrus x Paradisi",
+      "image": "grapefruit.jpg",
+      "description": "The grapefruit is a subtropical citrus tree known for its relatively large sour to semi-sweet, somewhat bitter fruit. Grapefruit is a citrus hybrid originating in Barbados as an accidental cross between the sweet orange and pomelo, both of which were introduced from Asia in the seventeenth century.",
+      "uses": [
+        "Cellulite",
+        "Jet Lag",
+        "Poor Memory"
+      ],
+      "emotions": [
+        "Anger",
+        "Frustration",
+        "Indecision",
+        "Regret",
+        "Sadness",
+        "Self Confidence"
+      ],
+      "other": [
+        "Astringent",
+        "Diuretic"
+      ]
+    },
+    {
+      "name": "Jasmine",
+      "binomial": "Jasminium Officinale",
+      "image": "jasmine.jpg",
+      "description": "Jasmine is a genus of shrubs and vines in the olive family. It contains around 200 species native to tropical and warm temperate regions of Eurasia and Oceania. Jasmines are widely cultivated for the characteristic fragrance of their flowers",
+      "uses": [
+      ],
+      "emotions": [
+        "Bereavement",
+        "Guilt",
+        "Insecurity",
+        "Self Confidence"
+      ],
+      "other": [
+        "Anti-Spasmodic",
+        "Aphrodisiac",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Juniper",
+      "binomial": "Juniperus Communis",
+      "image": "juniper.jpeg",
+      "description": "Junipers are coniferous trees and shrubs in the genus Juniperus of the cypress family Cupressaceae.",
+      "uses": [
+        "Arthritis",
+        "Cellulite",
+        "Circulation",
+        "Cystitis",
+        "Dermatitis",
+        "Oedema",
+        "Rheumatism",
+        "Sciatica",
+        "Varicose Veins"
+      ],
+      "emotions": [
+        "Anxiety",
+        "Fear",
+        "Guilt",
+        "Insecurity",
+        "Loneliness",
+        "Negativity",
+        "Sadness",
+        "Stress",
+        "Worry"
+      ],
+      "other": [
+        "Analgesic",
+        "Astringent",
+        "Deodorant",
+        "Diuretic",
+        "Neurotonic",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Laurel Leaf",
+      "binomial": "Laurus Nobilis",
+      "image": "laurel.jpg",
+      "description": "Laurus nobilis is an aromatic evergreen tree or large shrub with green, glabrous smooth leaves, in the flowering plant family Lauraceae. It is native to the Mediterranean region and is used as bay leaf for seasoning in cooking.",
+      "uses": [
+        "Poor Memory"
+      ],
+      "emotions": [
+        "Negativity",
+        "Self Confidence"
+      ],
+      "other": []
+    },
+    {
+      "name": "Lavender",
+      "binomial": "Lavandula Augustifolia",
+      "image": "lavender.png",
+      "description": "",
+      "uses": [
+        "Asthma",
+        "Athlete's Foot",
+        "Backache",
+        "Bruises",
+        "Burns",
+        "Candida",
+        "Dandruff",
+        "Eczema",
+        "Hay Fever",
+        "Headache",
+        "Hives",
+        "Inflammation",
+        "Insect Bites",
+        "Insomnia",
+        "Itching",
+        "Jet Lag",
+        "Migraine",
+        "Muscular Aches",
+        "Period Pains",
+        "PMS",
+        "Psoriasis",
+        "Rheumatism",
+        "Sciatica",
+        "Sore Throat",
+        "Spots",
+        "Sprains",
+        "Sunburn",
+        "Travel Sickness",
+        "Warts"
+      ],
+      "emotions": [
+        "Anxiety",
+        "Frustration",
+        "Hysteria",
+        "Impatience",
+        "Panic",
+        "Restlessness",
+        "Shock",
+        "Tantrums"
+      ],
+      "other": [
+        "Anti-Inflammatory",
+        "Anti-Spasmodic",
+        "Deodorant",
+        "Immunostimulant",
+        "Insect Repellent",
+        "Neurotonic"
+      ]
+    },
+    {
+      "name": "Lemon",
+      "binomial": "Citrus Limon",
+      "image": "citron.jpg",
+      "description": "The lemon is a large fragrant citrus fruit with a thick rind. It is one of the three original citrus fruits from which all other citrus types developed through natural hybrid speciation or artificial hybridization.",
+      "uses": [
+        "Asthma",
+        "Cold Sores",
+        "Hay Fever",
+        "Headache",
+        "Influenza",
+        "Poor Memory",
+        "Spots",
+        "Varicose Veins",
+        "Warts"
+      ],
+      "emotions": [
+        "Guilt",
+        "Jealousy",
+        "Regret"
+      ],
+      "other": [
+        "Anti-Viral",
+        "Astringent",
+        "Diuretic",
+        "Immunostimulant"
+      ]
+    },
+    {
+      "name": "Lemongrass",
+      "binomial": "Cymbopogon",
+      "image": "lemongrass.jpg",
+      "description": "Cymbopogon, also known as lemongrass, barbed wire grass, silky heads, Cochin grass, Malabar grass, oily heads or fever grass, is a genus of Asian, African, Australian, and tropical island plants in the grass family.",
+      "uses": [
+        "Fatigue"
+      ],
+      "emotions": [],
+      "other": [
+        "Deodorant",
+        "Insect Repellent"
+      ]
+    },
+    {
+      "name": "Lemon Eucalyptus",
+      "binomial": "Corymbia Citriodora",
+      "image": "citriodora.jpg",
+      "description": "Corymbia citriodora, commonly known as lemon-scented gum or spotted gum, is a species of tall tree that is endemic to north-eastern Australia. It has smooth white to pink bark, narrow lance-shaped to curved adult leaves, flower buds in groups of three, white flowers and urn-shaped or barrel-shaped fruit.",
+      "uses": [
+        "Catarrh",
+        "Cystitis",
+        "Spots"
+      ],
+      "emotions": [],
+      "other": [
+        "Insect Repellent"
+      ]
+    },
+    {
+      "name": "Mandarin",
+      "binomial": "Citrus Nobilis",
+      "image": "mandarin.jpg",
+      "description": "",
+      "uses": [],
+      "emotions": [
+        "Claustrophobia",
+        "Tantrums"
+      ],
+      "other": []
+    },
+    {
+      "name": "Marigold",
+      "binomial": "Tagetes",
+      "image": "tagetes.jpg",
+      "description": "Tagetes is a genus of annual or perennial, mostly herbaceous plants in the sunflower family. It was described as a genus by Carl Linnaeus in 1753. The genus is native of south of Mexico, but some species have become naturalized around the world.",
+      "uses": [
+        "Athlete's Foot"
+      ],
+      "emotions": [],
+      "other": [
+        "Fungicidal"
+      ]
+    },
+    {
+      "name": "Marjoram Sweet",
+      "binomial": "Origanum Marjorana",
+      "image": "marjoram-sweet.jpg",
+      "description": "Marjoram is a somewhat cold-sensitive perennial herb or undershrub with sweet pine and citrus flavors. In some Middle Eastern countries, marjoram is synonymous with oregano, and there the names sweet marjoram and knotted marjoram are used to distinguish it from other plants of the genus Origanum.",
+      "uses": [
+        "Diarrhoea",
+        "Arthritis",
+        "Backache",
+        "Bruises",
+        "Coughs",
+        "Headache",
+        "Insomnia",
+        "Migraine",
+        "Muscular Aches",
+        "Neuralgia",
+        "Period Pains",
+        "Rheumatism",
+        "Sprains"
+      ],
+      "emotions": [
+        "Anxiety",
+        "Bereavement",
+        "Grief",
+        "Guilt",
+        "Hysteria",
+        "Jealousy",
+        "Loneliness",
+        "Restlessness",
+        "Shock",
+        "Stress",
+        "Worry"
+      ],
+      "other": [
+        "Analgesic",
+        "Anti-Spasmodic",
+        "Diuretic",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "May Chang",
+      "binomial": "Litsea Cubeba",
+      "image": "litsea-cubeba.jpg",
+      "description": "Litsea cubeba, the aromatic litsea or may chang, is an evergreen tree or shrub 512 meters high in the family Lauraceae. It is native to China, Indonesia, Taiwan and other parts of Southeast Asia. It is called mountain pepper in Mandarin and maqaw by the Atayal aborigines in Taiwan.",
+      "uses": [
+        "Spots"
+      ],
+      "emotions": [
+        "Exhaustion"
+      ],
+      "other": [
+        "Deodorant"
+      ]
+    },
+    {
+      "name": "Melissa",
+      "binomial": "Melissa",
+      "image": "melissa.jpg",
+      "description": "Melissa is a genus of perennial herbs in the Lamiaceae, native to Europe and Asia but cultivated and naturalized in many other places. The name Melissa is derived from a Greek word meaning honeybee, owing to the abundance of nectar in the flowers.",
+      "uses": [
+        "Migraine",
+        "PMS",
+        "Shingles",
+        "Travel Sickness"
+      ],
+      "emotions": [
+        "Bereavement",
+        "Depression",
+        "Hysteria",
+        "Shock"
+      ],
+      "other": [
+        "Neurotonic",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Myrrh",
+      "binomial": "Commiphora Myrrha",
+      "image": "myrrh.jpg",
+      "description": "Myrrh is a natural gum or resin extracted from a number of small, thorny tree species of the genus Commiphora. Myrrh resin has been used throughout history as a perfume, incense, and medicine. Myrrh mixed with wine was common across ancient cultures, for general pleasure and as an analgesic.",
+      "uses": [
+        "Athlete's Foot",
+        "Candida",
+        "Hives",
+        "Inflammation"
+      ],
+      "emotions": [
+        "Bereavement",
+        "Loneliness",
+        "Restlessness"
+      ],
+      "other": [
+        "Anti-Inflammatory",
+        "Fungicidal"
+      ]
+    },
+    {
+      "name": "Myrtle",
+      "binomial": "Myrtus",
+      "image": "myrtle.jpg",
+      "description": "Myrtus, with the common name myrtle, is a genus of flowering plants in the family Myrtaceae, described by Swedish botanist Linnaeus in 1753. Over 600 names have been proposed in the genus, but nearly all have either been moved to other genera or been regarded as synonyms.",
+      "uses": [
+        "Asthma",
+        "Head Lice"
+      ],
+      "emotions": [],
+      "other": [
+        "Anti-Viral",
+        "Decongestive",
+        "Expectorant"
+      ]
+    },
+    {
+      "name": "Neroli",
+      "binomial": "Citrus Aurantium",
+      "image": "neroli.jpg",
+      "description": "Neroli oil is an essential oil produced from the blossom of the bitter orange tree. Its scent is sweet, honeyed and somewhat metallic with green and spicy facets.",
+      "uses": [
+        "Dermatitis",
+        "Eczema",
+        "Psoriasis"
+      ],
+      "emotions": [
+        "Anger",
+        "Bereavement",
+        "Claustrophobia",
+        "Depression",
+        "Hysteria",
+        "Irritability",
+        "Negativity",
+        "Restlessness",
+        "Shock"
+      ],
+      "other": [
+        "Aphrodisiac",
+        "Deodorant",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Niaouli",
+      "binomial": "Melaleuca Quinquenervia",
+      "image": "niaouli.png",
+      "description": "Melaleuca quinquenervia, commonly known as the broad-leaved paperbark, paper bark tea tree, punk tree or niaouli, is a small- to medium-sized tree of the myrtle family, Myrtaceae. It grows as a spreading tree up to 20 m tall, with its trunk covered by a white, beige and grey thick papery bark.",
+      "uses": [
+        "Catarrh",
+        "Cystitis",
+        "Influenza",
+        "Insect Bites",
+        "Shingles",
+        "Sinusitis",
+        "Spots"
+      ],
+      "emotions": [],
+      "other": [
+        "Anti-Viral",
+        "Decongestive",
+        "Expectorant",
+        "Immunostimulant"
+      ]
+    },
+    {
+      "name": "Palmarosa",
+      "binomial": "Cymbopogon Martinii",
+      "image": "palmarosa.jpg",
+      "description": "Cymbopogon martinii is a species of grass in the genus Cymbopogon native to India and Indochina, but widely cultivated in many places for its aromatic oil. It is best known by the common name palmarosa as it smells sweet and rose-like. Other common names include Indian geranium, gingergrass, rosha, and rosha grass.",
+      "uses": [
+        "Dermatitis"
+      ],
+      "emotions": [
+        "Anxiety",
+        "Fear",
+        "Jealousy",
+        "Mood Swings"
+      ],
+      "other": []
+    },
+    {
+      "name": "Patchouli",
+      "binomial": "Pogostemon Cablin",
+      "image": "patchouli.jpg",
+      "description": "Patchouli, from Tamil pacculi, is a species of plant from the family Lamiaceae, commonly called the mint or deadnettle family. The plant grows as a bushy herb, with erect stems reaching around 75 centimetres in height and bearing small, pale pink-white flowers.",
+      "uses": [
+        "Athlete's Foot",
+        "Varicose Veins"
+      ],
+      "emotions": [
+        "Insecurity",
+        "Mood Swings"
+      ],
+      "other": [
+        "Aphrodisiac",
+        "Diuretic",
+        "Insect Repellent"
+      ]
+    },
+    {
+      "name": "Peppermint",
+      "binomial": "Mentha",
+      "image": "mint.png",
+      "description": "Peppermint is a hybrid mint, a cross between watermint and spearmint. Indigenous to Europe and the Middle East, the plant is now widely spread and cultivated in many regions of the world. It is occasionally found in the wild with its parent species.",
+      "uses": [
+        "Diarrhoea",
+        "Fatigue",
+        "Headache",
+        "Indigestion",
+        "Jet Lag",
+        "Migraine",
+        "Nausea",
+        "Poor Memory",
+        "Sinusitis",
+        "Toothache",
+        "Travel Sickness"
+      ],
+      "emotions": [
+        "Exhaustion",
+        "Impatience",
+        "Indecision",
+        "Irritability",
+        "Shock"
+      ],
+      "other": [
+        "Analgesic",
+        "Anti-Viral",
+        "Decongestive",
+        "Expectorant",
+        "Insect Repellent",
+        "Neurotonic",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Pine",
+      "binomial": "Pinus",
+      "image": "pine.jpg",
+      "description": "A pine is any conifer in the genus Pinus of the family Pinaceae. Pinus is the sole genus in the subfamily Pinoideae. The Plant List compiled by the Royal Botanic Gardens, Kew and Missouri Botanical Garden accepts 126 species names of pines as current, together with 35 unresolved species and many more synonyms.",
+      "uses": [
+        "Hay Fever",
+        "Neuralgia",
+        "Sinusitis",
+        "Toothache"
+      ],
+      "emotions": [
+        "Exhaustion",
+        "Negativity",
+        "Sadness"
+      ],
+      "other": [
+        "Anti-Bacterial",
+        "Decongestive",
+        "Fungicidal"
+      ]
+    },
+    {
+      "name": "Ravensara",
+      "binomial": "Ravensara Aromatica",
+      "image": "ravensara.jpg",
+      "description": "Ravensara is a genus of trees and shrubs of the family Lauraceae and endemic to the island of Madagascar and the Comoro Islands. The bark, leaves and fruit of the various species are rich in aromatic essential oils.",
+      "uses": [
+        "Bronchitis",
+        "Cold Sores",
+        "Influenza",
+        "Insect Bites",
+        "Shingles",
+        "Sore Throat",
+        "Warts"
+      ],
+      "emotions": [],
+      "other": [
+        "Anti-Bacterial",
+        "Anti-Viral",
+        "Decongestive",
+        "Expectorant"
+      ]
+    },
+    {
+      "name": "Roman Chamomile",
+      "binomial": "Anthemis Nobilis/Chamaemelum Nobile",
+      "image": "roman-chamomile.jpg",
+      "description": "For anyone that is under stress, is going through a period of depression, loneliness, intense fear or is challenged by anxiety or post traumatic shock disorder, Roman Chamomile Essential Oil can help bring a sense of calm. Roman Chamomile is also a suggested oil for use during times of anger or irritability.",
+      "uses": [
+        "Diarrhoea",
+        "Arthritis",
+        "Asthma",
+        "Backache",
+        "Bruises",
+        "Burns",
+        "Dermatitis",
+        "Eczema",
+        "Hay Fever",
+        "Headache",
+        "Hives",
+        "Inflammation",
+        "Insect Bites",
+        "Insomnia",
+        "Itching",
+        "Menopause",
+        "Migraine",
+        "Muscular Aches",
+        "Nausea",
+        "Neuralgia",
+        "PMS",
+        "Rheumatism",
+        "Sciatica",
+        "Sprains",
+        "Toothache"
+      ],
+      "emotions": [
+        "Anger",
+        "Depression",
+        "Frustration",
+        "Hysteria",
+        "Irritability",
+        "Panic",
+        "Shock",
+        "Tantrums",
+        "Worry"
+      ],
+      "other": [
+        "Analgesic",
+        "Anti-Inflammatory",
+        "Anti-Spasmodic",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Rose",
+      "binomial": "Rosa",
+      "image": "rose.jpg",
+      "description": "A rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles.",
+      "uses": [
+        "Circulation",
+        "Eczema",
+        "Hives",
+        "Menopause",
+        "PMS",
+        "Shingles"
+      ],
+      "emotions": [
+        "Anxiety",
+        "Fear",
+        "Grief",
+        "Guilt",
+        "Jealousy",
+        "Panic",
+        "Regret",
+        "Tantrums"
+      ],
+      "other": [
+        "Anti-Inflammatory",
+        "Aphrodisiac",
+        "Astringent"
+      ]
+    },
+    {
+      "name": "Rosemary",
+      "binomial": "Rosmarinus Officinalis",
+      "image": "rosemary.jpg",
+      "description": "Salvia rosmarinus, commonly known as rosemary, is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region. Until 2017, it was known by the scientific name Rosmarinus officinalis, now a synonym.",
+      "uses": [
+        "Arthritis",
+        "Backache",
+        "Candida",
+        "Cellulite",
+        "Circulation",
+        "Dandruff",
+        "Fatigue",
+        "Headache",
+        "Head Lice",
+        "Indigestion",
+        "Muscular Aches",
+        "Neuralgia",
+        "Oedema",
+        "Poor Memory",
+        "Sciatica",
+        "Sprains"
+      ],
+      "emotions": [
+        "Depression",
+        "Exhaustion",
+        "Indecision",
+        "Loneliness",
+        "Sadness",
+        "Self Confidence"
+      ],
+      "other": [
+        "Analgesic",
+        "Astringent",
+        "Decongestive",
+        "Diuretic",
+        "Expectorant",
+        "Immunostimulant",
+        "Neurotonic",
+        "Stimulant"
+      ]
+    },
+    {
+      "name": "Sage",
+      "binomial": "Salvia Officinalis",
+      "image": "sage.jpg",
+      "description": "Salvia officinalis is a perennial, evergreen subshrub, with woody stems, grayish leaves, and blue to purplish flowers. It is a member of the mint family Lamiaceae and native to the Mediterranean region, though it has naturalized in many places throughout the world.",
+      "uses": [
+        "Dandruff"
+      ],
+      "emotions": [],
+      "other": []
+    },
+    {
+      "name": "Sandalwood",
+      "binomial": "Santalum",
+      "image": "sandalwood.jpg",
+      "description": "Sandalwood is a class of woods from trees in the genus Santalum. The woods are heavy, yellow, and fine-grained, and, unlike many other aromatic woods, they retain their fragrance for decades. Sandalwood oil is extracted from the woods for use.",
+      "uses": [
+        "Bronchitis",
+        "Coughs",
+        "Cystitis",
+        "Insomnia",
+        "Nausea",
+        "Psoriasis",
+        "Sore Throat",
+        "Sunburn"
+      ],
+      "emotions": [
+        "Anxiety",
+        "Claustrophobia",
+        "Impatience",
+        "Insecurity",
+        "Jealousy",
+        "Regret",
+        "Stress",
+        "Worry"
+      ],
+      "other": [
+        "Aphrodisiac",
+        "Astringent",
+        "Decongestive",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Silver Fir",
+      "binomial": "Abies Alba",
+      "image": "silver-fir.jpeg",
+      "description": "Abies alba, the European silver fir or silver fir, is a fir native to the mountains of Europe, from the Pyrenees north to Normandy, east to the Alps and the Carpathians, Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Serbia, and south to Italy, Bulgaria, Albania and northern Greece; it is also commonly grown on Christmas tree plantations in the North East region of North America spanning New England in the US to the Maritime provinces of Canada.",
+      "uses": [],
+      "emotions": [
+      ],
+      "other": [
+        "Expectorant"
+      ]
+    },
+    {
+      "name": "Spikenard",
+      "binomial": "Nardostachys Jatamansi",
+      "image": "spikenard.jpg",
+      "description": "Nardostachys jatamansi is a flowering plant of the valerian family that grows in the Himalayas. It is a source of a type of intensely aromatic amber-colored essential oil, spikenard. The oil has, since ancient times, been used as a perfume, as a traditional medicine, and in religious ceremonies.",
+      "uses": [],
+      "emotions": [
+        "Bereavement",
+        "Hysteria",
+        "Irritability",
+        "Panic",
+        "Regret",
+        "Restlessness"
+      ],
+      "other": [
+      ]
+    },
+    {
+      "name": "Sweet Orange",
+      "binomial": "Citrus Sinensis",
+      "image": "orange.jpg",
+      "description": "The orange is the fruit of the citrus species Citrus x sinensis in the family Rutaceae, native to China. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually; varieties of sweet orange arise through mutations.",
+      "uses": [
+      ],
+      "emotions": [
+        "Anger",
+        "Depression",
+        "Frustration",
+        "Grief",
+        "Irritability",
+        "Negativity",
+        "Sadness"
+      ],
+      "other": []
+    },
+    {
+      "name": "Tea Tree",
+      "binomial": "Melaleuca Alternifolia",
+      "image": "tea-tree.jpg",
+      "description": "",
+      "uses": [
+        "Athlete's Foot",
+        "Bronchitis",
+        "Burns",
+        "Candida",
+        "Cold Sores",
+        "Cystitis",
+        "Dandruff",
+        "Head Lice",
+        "Influenza",
+        "Insect Bites",
+        "Itching",
+        "Shingles",
+        "Sinusitis",
+        "Sore Throat",
+        "Spots",
+        "Warts"
+      ],
+      "emotions": [],
+      "other": [
+        "Analgesic",
+        "Anti-Bacterial",
+        "Anti-Inflammatory",
+        "Anti-Viral",
+        "Fungicidal",
+        "Immunostimulant"
+      ]
+    },
+    {
+      "name": "Thyme",
+      "binomial": "Thymus",
+      "image": "thyme.jpg",
+      "description": "Thyme is any member of the genus Thymus of aromatic perennial evergreen herbs in the mint family Lamiaceae. Thymes are relatives of the oregano genus Origanum. They have culinary, medicinal, and ornamental uses, and the species most commonly cultivated and used for culinary purposes is Thymus vulgaris.",
+      "uses": [
+        "Head Lice"
+      ],
+      "emotions": [
+        "Fear",
+        "Indecision"
+      ],
+      "other": [
+        "Anti-Bacterial",
+        "Anti-Viral",
+        "Deodorant",
+        "Fungicidal"
+      ]
+    },
+    {
+      "name": "Valerian",
+      "binomial": "Valeriana Officinalis",
+      "image": "valerian.jpg",
+      "description": "Valerian is a perennial flowering plant native to Europe and Asia. In the summer when the mature plant may have a height of 1.5 metres, it bears sweetly scented pink or white flowers that attract many fly species, especially hoverflies of the genus Eristalis.",
+      "uses": [
+      ],
+      "emotions": [
+      ],
+      "other": [
+        "Anti-Spasmodic",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Vetiver",
+      "binomial": "Vetiveria Zizanioides",
+      "image": "vetiver.jpg",
+      "description": "Chrysopogon zizanioides, commonly known as vetiver, is a perennial bunchgrass of the family Poaceae, native to India. Vetiver is most closely related to Sorghum but shares many morphological characteristics with other fragrant grasses, such as lemongrass, citronella, and palmarosa.",
+      "uses": [
+      ],
+      "emotions": [
+        "Exhaustion",
+        "Impatience",
+        "Insecurity",
+        "Mood Swings",
+        "Panic",
+        "Restlessness",
+        "Stress"
+      ],
+      "other": []
+    },
+    {
+      "name": "Violet Leaf",
+      "binomial": "Viola",
+      "image": "violet.jpg",
+      "description": "Viola is a genus of flowering plants in the violet family Violaceae. It is the largest genus in the family, containing between 525 and 600 species. Most species are found in the temperate Northern Hemisphere; however, some are also found in widely divergent areas such as Hawaii, Australasia, and the Andes.",
+      "uses": [],
+      "emotions": [
+        "Grief"
+      ],
+      "other": []
+    },
+    {
+      "name": "Virginian Cedar",
+      "binomial": "Juniperus Virginiana",
+      "image": "virginian-cedar.jpg",
+      "description": "Juniperus virginiana, known as red cedar, eastern redcedar, Virginian juniper, eastern juniper, red juniper, pencil cedar, and aromatic cedar, is a species of juniper native to eastern North America from southeastern Canada to the Gulf of Mexico and east of the Great Plains.",
+      "uses": [
+      ],
+      "emotions": [
+        "Stress"
+      ],
+      "other": [
+        "Insect Repellent"
+      ]
+    },
+    {
+      "name": "White Thyme",
+      "binomial": "Thymus Serpyllum",
+      "image": "white-thyme.jpg",
+      "description": "Snowdrift is an evergreen, mat-forming sub-shrub. Finely-hairy, trailing stems bear linear to elliptic to oval mid-green leaves. Whorls of two-lipped white flowers are borne in summer",
+      "uses": [
+        "Warts"
+      ],
+      "emotions": [],
+      "other": [
+        "Neurotonic"
+      ]
+    },
+    {
+      "name": "Wild Celery",
+      "binomial": "Angelica",
+      "image": "angelica.jpg",
+      "description": "Angelica is a genus of about 60 species of tall biennial and perennial herbs in the family Apiaceae, native to temperate and subarctic regions of the Northern Hemisphere, reaching as far north as Iceland, Lapland and Greenland.",
+      "uses": [
+        "Hives",
+        "Oedema",
+        "Period Pains",
+        "Psoriasis"
+      ],
+      "emotions": [
+        "Loneliness"
+      ],
+      "other": []
+    },
+    {
+      "name": "Yarrow",
+      "binomial": "Achillea Millefolium",
+      "image": "yarrow.jpg",
+      "description": "Achillea millefolium, commonly known as yarrow or common yarrow is a flowering plant in the family Asteraceae. It is native to temperate regions of the Northern Hemisphere in Asia, Europe, and North America.",
+      "uses": [
+        "Bruises",
+        "Sunburn",
+        "Inflammation"
+      ],
+      "emotions": [
+        "Grief",
+        "Insecurity",
+        "Regret",
+        "Tantrums"
+      ],
+      "other": [
+        "Anti-Inflammatory"
+      ]
+    },
+    {
+      "name": "Ylang Ylang",
+      "binomial": "Cananga Odorata",
+      "image": "ylang.jpg",
+      "description": "Cananga odorata, known as the cananga tree, is a tropical tree that is native from India, through parts of Indochina, Malaysia, the Philippines and Indonesia, to Queensland, Australia.",
+      "uses": [
+        "Dandruff",
+        "Insomnia",
+        "Jet Lag"
+      ],
+      "emotions": [
+        "Anger",
+        "Fear",
+        "Frustration",
+        "Guilt",
+        "Impatience",
+        "Irritability",
+        "Panic",
+        "Self Confidence",
+        "Shock"
+      ],
+      "other": [
+        "Aphrodisiac",
+        "Sedative"
+      ]
+    },
+    {
+      "name": "Yuzu",
+      "binomial": "Citrus Junos",
+      "image": "yuzu.jpg",
+      "description": "Yuzu is a citrus fruit and plant in the family Rutaceae. It is believed to have originated in central China as a hybrid of mandarin orange and the ichang papeda. The yuzu is called yuja in Korean cuisine.",
+      "uses": [
+      ],
+      "emotions": [
+        "Depression",
+        "Frustration",
+        "Regret",
+        "Self Confidence"
+      ],
+      "other": []
+    }
+  ]
+}

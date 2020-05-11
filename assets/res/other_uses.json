@@ -1,0 +1,246 @@
+{
+  "others": [
+    {
+      "name": "Analgesic",
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Black Pepper",
+        "Juniper",
+        "Peppermint",
+        "Rosemary",
+        "Clove",
+        "Tea Tree",
+        "Ginger"
+      ]
+    },
+    {
+      "name": "Anti-Bacterial",
+      "oils": [
+        "Cinnamon Leaf",
+        "Atlas Cedar",
+        "Ravensara",
+        "Eucalyptus",
+        "Bergamot",
+        "Geranium",
+        "Tea Tree",
+        "Thyme",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Anti-Inflammatory",
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Frankincense",
+        "Eucalyptus",
+        "Lavender",
+        "Tea Tree",
+        "Yarrow",
+        "Myrrh",
+        "Rose",
+        "Basil"
+      ]
+    },
+    {
+      "name": "Anti-Spasmodic",
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Clary Sage",
+        "Lavender",
+        "Valerian",
+        "Cypress",
+        "Jasmine",
+        "Fennel",
+        "Basil"
+      ]
+    },
+    {
+      "name": "Anti-Viral",
+      "oils": [
+        "Peppermint",
+        "Eucalyptus",
+        "Ravensara",
+        "Bergamot",
+        "Tea Tree",
+        "Lemon",
+        "Niaouli",
+        "Thyme",
+        "Myrtle"
+      ]
+    },
+    {
+      "name": "Aphrodisiac",
+      "oils": [
+        "Black Pepper",
+        "Sandalwood",
+        "Ylang Ylang",
+        "Clary Sage",
+        "Patchouli",
+        "Jasmine",
+        "Ginger",
+        "Neroli",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Astringent",
+      "oils": [
+        "Juniper",
+        "Bitter Orange",
+        "Sandalwood",
+        "Geranium",
+        "Grapefruit",
+        "Rosemary",
+        "Cypress",
+        "Lemon",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Decongestive",
+      "oils": [
+        "Sandalwood",
+        "Peppermint",
+        "Ravensara",
+        "Eucalyptus",
+        "Rosemary",
+        "Niaouli",
+        "Myrtle",
+        "Basil",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Deodorant",
+      "oils": [
+        "Juniper",
+        "Litsea Cubeba",
+        "Lemongrass",
+        "Citronella",
+        "Bergamot",
+        "Lavender",
+        "Cypress",
+        "Thyme",
+        "Neroli"
+      ]
+    },
+    {
+      "name": "Diuretic",
+      "oils": [
+        "Marjoram Sweet",
+        "Juniper",
+        "Rosemary",
+        "Grapefruit",
+        "Geranium",
+        "Pathouli",
+        "Cypress",
+        "Fennel",
+        "Lemon"
+      ]
+    },
+    {
+      "name": "Expectorant",
+      "oils": [
+        "Frankincense",
+        "Peppermint",
+        "Eucalyptus",
+        "Ravensara",
+        "Silver Fir",
+        "Rosemary",
+        "Cajuput",
+        "Niaouli",
+        "Myrtle"
+      ]
+    },
+    {
+      "name": "Fungicidal",
+      "oils": [
+        "German Chamomile",
+        "Cinnamon Leaf",
+        "Eucalyptus",
+        "Clove",
+        "Tea Tree",
+        "Tagetes",
+        "Thyme",
+        "Myrrh",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Immunostimulant",
+      "oils": [
+        "Cinnamon Leaf",
+        "Frankincense",
+        "Rosemary",
+        "Clove",
+        "Geranium",
+        "Lavender",
+        "Tea Tree",
+        "Niaouli",
+        "Lemon"
+      ]
+    },
+    {
+      "name": "Insect Repellent",
+      "oils": [
+        "Lemon Eucalyptus",
+        "Virginian Cedar",
+        "Lemongrass",
+        "Peppermint",
+        "Citronella",
+        "Patchouli",
+        "Geranium",
+        "Clove",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Neurotonic",
+      "oils": [
+        "White Thyme",
+        "Juniper",
+        "Peppermint",
+        "Rosemary",
+        "Bergamot",
+        "Lavender",
+        "Cypress",
+        "Melissa",
+        "Basil"
+      ]
+    },
+    {
+      "name": "Sedative",
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Sandalwood",
+        "Ylang Ylang",
+        "Clary Sage",
+        "Valerian",
+        "Jamsine",
+        "Melissa",
+        "Neroli"
+      ]
+    },
+    {
+      "name": "Stimulant",
+      "oils": [
+        "Cinnamon Leaf",
+        "Juniper",
+        "Black Pepper",
+        "Peppermint",
+        "Eucalyptus",
+        "Rosemary",
+        "Clove",
+        "Ginger",
+        "Basil"
+      ]
+    }
+  ]
+}

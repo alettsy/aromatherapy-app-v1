@@ -1,0 +1,977 @@
+{
+  "uses": [
+    {
+      "name": "Arthritis",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Bath",
+        "Hot Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Juniper",
+        "Black Pepper",
+        "Rosemary",
+        "Ginger"
+      ]
+    },
+
+    {
+      "name": "Asthma",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Massage Chest"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Frankincense",
+        "Lavender",
+        "Cypress",
+        "Myrtle",
+        "Lemon"
+      ]
+    },
+
+    {
+      "name": "Athlete's Foot",
+      "description": "",
+      "carrier": "4 Drops in Warm Water",
+      "application": "Foot Bath",
+      "other_methods": [
+        "Lotion Base"
+      ],
+      "oils": [
+        "Eucalyptus",
+        "Patchouli",
+        "Lavender",
+        "Tea Tree",
+        "Marigold",
+        "Myrrh"
+      ]
+    },
+    {
+      "name": "Backache",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Bath",
+        "Hot Compress"
+      ],
+      "oils": [
+        "Marjoram Sweet",
+        "Roman Chamomile",
+        "Black Pepper",
+        "Eucalyptus",
+        "Rosemary",
+        "Lavender"
+      ]
+    },
+
+    {
+      "name": "Bronchitis",
+      "description": "",
+      "carrier": "4 Drops in Hot Water",
+      "application": "Steam Inhalation",
+      "other_methods": [
+        "Tissue",
+        "Vaporiser",
+        "Bath",
+        "Massage Chest"
+      ],
+      "oils": [
+        "Atlas Cedar",
+        "Frankincense",
+        "Sandalwood",
+        "Ravensara",
+        "Tea Tree",
+        "Eucalyptus Radiata"
+      ]
+    },
+
+    {
+      "name": "Bruises",
+      "description": "",
+      "carrier": "4 Drops in Cold Water",
+      "application": "Compress",
+      "other_methods": [
+        "Lotion Base - Apply Gently"
+      ],
+      "oils": [
+        "Marjoram Sweet",
+        "Roman Chamomile",
+        "Helichrysum",
+        "Lavender",
+        "Yarrow",
+        "Fennel"
+      ]
+    },
+
+    {
+      "name": "Burns",
+      "description": "",
+      "carrier": "1 Drop Neat",
+      "application": "Cotton Bud",
+      "other_methods": [
+        "Lotion Base",
+        "Cold Compress"
+      ],
+      "oils": [
+        "German Chamomile",
+        "Roman Chamomile",
+        "Eucalyptus Radiata",
+        "Helichrysum",
+        "Lavender",
+        "Geranium",
+        "Tea Tree"
+      ]
+    },
+
+    {
+      "name": "Candida",
+      "description": "",
+      "carrier": "6 to 8 Drops",
+      "application": "Sitz Bath",
+      "other_methods": [
+        "Lotion Base - Massage Upper Thighs"
+      ],
+      "oils": [
+        "Eucalyptus",
+        "Bergamot",
+        "Rosemary",
+        "Lavender",
+        "Tea Tree",
+        "Myrrh"
+      ]
+    },
+
+    {
+      "name": "Catarrh",
+      "description": "",
+      "carrier": "4 Drops in Hot Water",
+      "application": "Steam Inhalation",
+      "other_methods": [
+        "Bath",
+        "Massage Chest",
+        "Tissue",
+        "Vaporiser"
+      ],
+      "oils": [
+        "Lemon Eucalyptus",
+        "Black Pepper",
+        "Atlas Cedar",
+        "Rosemary",
+        "Cajuput",
+        "Niaouli"
+      ]
+    },
+
+    {
+      "name": "Cellulite",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Bath",
+        "Hot Compress"
+      ],
+      "oils": [
+        "Juniper",
+        "Rosemary",
+        "Grapefruit",
+        "Geranium",
+        "Cypress",
+        "Fennel"
+      ]
+    },
+
+    {
+      "name": "Circulation",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Bath",
+        "Hot Compress"
+      ],
+      "oils": [
+        "Bitter Orange",
+        "Juniper",
+        "Black Pepper",
+        "Rosemary",
+        "Ginger",
+        "Rose"
+      ]
+    },
+
+    {
+      "name": "Cold Sores",
+      "description": "",
+      "carrier": "1 Drop Neat",
+      "application": "Cotton Bud",
+      "other_methods": [
+        "Lotion",
+        "Gel"
+      ],
+      "oils": [
+        "Bergamot FCF",
+        "Eucalyptus",
+        "Ravensara",
+        "Geranium",
+        "Tea Tree",
+        "Lemon"
+      ]
+    },
+
+    {
+      "name": "Coughs",
+      "description": "",
+      "carrier": "4 Drops in Hot Water",
+      "application": "Steam Inhalation",
+      "other_methods": [
+        "Tissue",
+        "Vaporiser",
+        "Bath",
+        "Massage Chest"
+      ],
+      "oils": [
+        "Marjoram Sweet",
+        "Frankincense",
+        "Eucalyptus Radiata",
+        "Sandalwood",
+        "Atlas Cedar",
+        "Cypress"
+      ]
+    },
+
+    {
+      "name": "Cystitis",
+      "description": "",
+      "carrier": "6 to 8 Drops",
+      "application": "Bath/Sitz Bath",
+      "other_methods": [
+        "Cold Compress"
+      ],
+      "oils": [
+        "Lemon Eucalyptus",
+        "Black Pepper",
+        "Juniper",
+        "Sandalwood",
+        "Tea Tree",
+        "Niaouli"
+      ]
+    },
+
+    {
+      "name": "Dandruff",
+      "description": "",
+      "carrier": "25 Drops to 50ml",
+      "application": "Shampoo/Conditioner",
+      "other_methods": [
+        "Carrier Lotion/Oil - Leave on Overnight"
+      ],
+      "oils": [
+        "Atlas Cedar",
+        "Ylang Ylang",
+        "Rosemary",
+        "Lavender",
+        "Tea Tree",
+        "Sage"
+      ]
+    },
+
+    {
+      "name": "Dermatitis",
+      "description": "",
+      "carrier": "Lotion Base",
+      "application": "Local Application",
+      "other_methods": [
+        "Bath",
+        "Cold Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Juniper",
+        "Frankincense",
+        "Helichrysum",
+        "Palmarosa",
+        "Neroli"
+      ]
+    },
+
+    {
+      "name": "Diarrhoea",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage Abdomen",
+      "other_methods": [
+        "Bath",
+        "Hot Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Marjoram Sweet",
+        "Peppermint",
+        "Clove",
+        "Geranium",
+        "Ginger"
+      ]
+    },
+
+    {
+      "name": "Eczema",
+      "description": "",
+      "carrier": "Lotion Base",
+      "application": "Local Application",
+      "other_methods": [
+        "Bath",
+        "Cold Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Frankincense",
+        "Bergamot",
+        "Lavender",
+        "Neroli",
+        "Rose"
+      ]
+    },
+
+    {
+      "name": "Fatigue",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Vaporiser",
+        "Tissue",
+        "Bath"
+      ],
+      "oils": [
+        "Black Pepper",
+        "Lemongrass",
+        "Cardamom",
+        "Peppermint",
+        "Rosemary",
+        "Basil"
+      ]
+    },
+
+    {
+      "name": "Hay Fever",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Massage Chest"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Helichrysum",
+        "Eucalyptus",
+        "Lavender",
+        "Lemon",
+        "Pine"
+      ]
+    },
+
+    {
+      "name": "Headache",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Massage Temples",
+        "Cold Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Marjoram Sweet",
+        "Peppermint",
+        "Rosemary",
+        "Lavender",
+        "Lemon"
+      ]
+    },
+
+    {
+      "name": "Head Lice",
+      "description": "",
+      "carrier": "25 Drops to 50ml",
+      "application": "Shampoo/Conditioner - Every 2 Days",
+      "other_methods": [
+        "Carrier Lotion"
+      ],
+      "oils": [
+        "Cinnamon Leaf",
+        "Eucalyptus",
+        "Rosemary",
+        "Tea Tree",
+        "Myrtle",
+        "Thyme"
+      ]
+    },
+
+    {
+      "name": "Hives",
+      "description": "",
+      "carrier": "Lotion Base",
+      "application": "Local Application",
+      "other_methods": [
+        "Cold Bath",
+        "Cold Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Helichrysum",
+        "Lavender",
+        "Angelica",
+        "Myrrh",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Indigestion",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage Stomach",
+      "other_methods": [
+        "Hot Compress",
+        "Tissue"
+      ],
+      "oils": [
+        "Black Pepper",
+        "Cardamom",
+        "Peppermint",
+        "Rosemary",
+        "Fennel",
+        "Ginger"
+      ]
+    },
+    {
+      "name": "Inflammation",
+      "description": "",
+      "carrier": "4 Drops in Cold Water",
+      "application": "Compress",
+      "other_methods": [
+        "Carrier Lotion - Apply Gently"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Eucalyptus",
+        "Helichrysum",
+        "Lavender",
+        "Yarrow",
+        "Myrrh"
+      ]
+    },
+    {
+      "name": "Influenza",
+      "description": "",
+      "carrier": "4 Drops in Hot Water",
+      "application": "Steam Inhalation",
+      "other_methods": [
+        "Bath",
+        "Vaporiser",
+        "Tissue",
+        "Massage Chest"
+      ],
+      "oils": [
+        "Black Pepper",
+        "Eucalyptus",
+        "Ravensara",
+        "Tea Tree",
+        "Niaouli",
+        "Lemon"
+      ]
+    },
+    {
+      "name": "Insect Bites",
+      "description": "",
+      "carrier": "1 Drop Neat",
+      "application": "Cotton Bud",
+      "other_methods": [
+        "Lotion/Gel"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Bergamot FCF",
+        "Ravensara",
+        "Lavender",
+        "Tea Tree",
+        "Niaouli"
+      ]
+    },
+    {
+      "name": "Insomnia",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Bath"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Marjoram Sweet",
+        "Frankincense",
+        "Sandalwood",
+        "Ylang Ylang",
+        "Clary Sage",
+        "Bergamot",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Itching",
+      "description": "",
+      "carrier": "Lotion/Gel",
+      "application": "Local Application",
+      "other_methods": [
+        "Cold Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Helichrysum",
+        "Atlas Cedar",
+        "Bergamot",
+        "Lavender",
+        "Tea Tree"
+      ]
+    },
+    {
+      "name": "Jet Lag",
+      "description": "",
+      "carrier": "6 to 8 Drops",
+      "application": "Warm Bath",
+      "other_methods": [
+        "Tissue",
+        "Vaporiser",
+        "Massage"
+      ],
+      "oils": [
+        "Ylang Ylang",
+        "Peppermint",
+        "Grapefruit",
+        "Lavender",
+        "Geranium",
+        "Ginger"
+      ]
+    },
+    {
+      "name": "Menopause",
+      "description": "",
+      "carrier": "6 to 8 Drops",
+      "application": "Warm Bath",
+      "other_methods": [
+        "Massage",
+        "Tissue",
+        "Vaporiser"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Clary Sage",
+        "Geranium",
+        "Cypress",
+        "Fennel",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Migraine",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Cold Compress",
+        "Massage Temples"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Peppermint",
+        "Lavender",
+        "Melissa",
+        "Basil"
+      ]
+    },
+    {
+      "name": "Muscular Aches",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Bath",
+        "Hot Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Black Pepper",
+        "Eucalyptus",
+        "Rosemary",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Nausea",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Bath",
+        "Massage Stomach"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Sandalwood",
+        "Peppermint",
+        "Cardamom",
+        "Ginger",
+        "Fennel"
+      ]
+    },
+    {
+      "name": "Neuralgia",
+      "description": "",
+      "carrier": "4 Drops in Hot Water",
+      "application": "Compress",
+      "other_methods": [
+        "Lotion/Gel"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Eucalyptus",
+        "Geranium",
+        "Rosemary",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Oedema",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Bath",
+        "Cold Compress"
+      ],
+      "oils": [
+        "Juniper",
+        "Rosemary",
+        "Geranium",
+        "Angelica",
+        "Cypress",
+        "Fennel"
+      ]
+    },
+    {
+      "name": "Period Pains",
+      "description": "",
+      "carrier": "4 Drops in Hot Water",
+      "application": "Hot Compress",
+      "other_methods": [
+        "Bath",
+        "Massage Abdomen"
+      ],
+      "oils": [
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Black Pepper",
+        "Clary Sage",
+        "Lavender",
+        "Angelica"
+      ]
+    },
+    {
+      "name": "PMS",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Bath",
+        "Massage"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Clary Sage",
+        "Geranium",
+        "Lavender",
+        "Melissa",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Poor Memory",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Bath"
+      ],
+      "oils": [
+        "Laurel Leaf",
+        "Peppermint",
+        "Grapefruit",
+        "Cardamom",
+        "Rosemary",
+        "Clove",
+        "Lemon",
+        "Basil"
+      ]
+    },
+    {
+      "name": "Psoriasis",
+      "description": "",
+      "carrier": "Carrier Lotion",
+      "application": "Local Application",
+      "other_methods": [
+        "Bath",
+        "Cold Compress"
+      ],
+      "oils": [
+        "Sandalwood",
+        "Frankincense",
+        "Lavender",
+        "Bergamot",
+        "Angelica",
+        "Neroli"
+      ]
+    },
+    {
+      "name": "Rheumatism",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Bath",
+        "Hot Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Black Pepper",
+        "Juniper",
+        "Galbanum",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Sciatica",
+      "description": "",
+      "carrier": "Carrier Oil",
+      "application": "Massage",
+      "other_methods": [
+        "Bath",
+        "Hot Compress"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Black Pepper",
+        "Juniper",
+        "Eucalyptus",
+        "Lavender",
+        "Rosemary"
+      ]
+    },
+    {
+      "name": "Shingles",
+      "description": "",
+      "carrier": "Carrier Lotion",
+      "application": "Local Application",
+      "other_methods": [
+        "Bath",
+        "Cold Compress"
+      ],
+      "oils": [
+        "Ravensara",
+        "Geranium",
+        "Tea Tree",
+        "Melissa",
+        "Niaouli",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Sinusitis",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Steam Inhalation",
+        "Vaporiser",
+        "Bath"
+      ],
+      "oils": [
+        "Peppermint",
+        "Eucalyptus",
+        "Tea Tree",
+        "Niaouli",
+        "Basil",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Sore Throat",
+      "description": "",
+      "carrier": "2 Drops in Hot Water",
+      "application": "Gargle",
+      "other_methods": [
+        "Carrier Lotion - Massage Neck"
+      ],
+      "oils": [
+        "Sandalwood",
+        "Eucalyptus",
+        "Ravensara",
+        "Geranium",
+        "Lavender",
+        "Tea Tree"
+      ]
+    },
+    {
+      "name": "Spots",
+      "description": "",
+      "carrier": "1 Drop Neat",
+      "application": "Cotton Bud",
+      "other_methods": [
+        "Carrier Lotion"
+      ],
+      "oils": [
+        "Lemon Eucalyptus",
+        "Litsea Cubeba",
+        "Lavender",
+        "Tea Tree",
+        "Niaouli",
+        "Lemon"
+      ]
+    },
+    {
+      "name": "Sprains",
+      "description": "",
+      "carrier": "4 Drops in Cold Water",
+      "application": "Cold Compress",
+      "other_methods": [
+        "Carrier Lotion - Gentle Massage"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "German Chamomile",
+        "Marjoram Sweet",
+        "Black Pepper",
+        "Eucalyptus",
+        "Rosemary",
+        "Lavender"
+      ]
+    },
+    {
+      "name": "Sunburn",
+      "description": "",
+      "carrier": "Carrier Lotion",
+      "application": "Apply Gently",
+      "other_methods": [
+        "Cold Compress",
+        "Cold Bath"
+      ],
+      "oils": [
+        "Frankincense",
+        "Sandalwood",
+        "Helichrysum",
+        "Geranium",
+        "Lavender",
+        "Yarrow"
+      ]
+    },
+    {
+      "name": "Toothache",
+      "description": "",
+      "carrier": "2 Drops in Hot Water",
+      "application": "Mouthwash",
+      "other_methods": [
+        "1 Drop on Cotton Bud"
+      ],
+      "oils": [
+        "Roman Chamomile",
+        "Cinnamon Leaf",
+        "Black Pepper",
+        "Peppermint",
+        "Clove",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Travel Sickness",
+      "description": "",
+      "carrier": "3 Drops on Tissue",
+      "application": "Inhale",
+      "other_methods": [
+        "Vaporiser",
+        "Bath"
+      ],
+      "oils": [
+        "Peppermint",
+        "Cardamom",
+        "Coriander",
+        "Lavender",
+        "Melissa",
+        "Ginger"
+      ]
+    },
+    {
+      "name": "Varicose Veins",
+      "description": "",
+      "carrier": "Carrier Lotion",
+      "application": "Apply Gently - Light Pressure",
+      "other_methods": [
+        "Cold Compress"
+      ],
+      "oils": [
+        "Juniper",
+        "Bitter Orange",
+        "Geranium",
+        "Patchouli",
+        "Cypress",
+        "Lemon"
+      ]
+    },
+    {
+      "name": "Warts",
+      "description": "",
+      "carrier": "1 Drop Neat",
+      "application": "Cotton Bud",
+      "other_methods": [
+        "Lotion/Gel"
+      ],
+      "oils": [
+        "White Thyme",
+        "Ravensara",
+        "Lavender",
+        "Tea Tree",
+        "Cypress",
+        "Lemon"
+      ]
+    }
+  ]
+}

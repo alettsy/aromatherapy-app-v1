@@ -1,0 +1,368 @@
+{
+  "emotions": [
+    {
+      "name": "Anger",
+      "oils": [
+        "Roman Chamomile",
+        "Sweet Orange",
+        "Frankincense",
+        "Helichrysum",
+        "Ylang Ylang",
+        "Grapefruit",
+        "Geranium",
+        "Neroli"
+      ]
+    },
+    {
+      "name": "Anxiety",
+      "oils": [
+        "Marjoram Sweet",
+        "Juniper",
+        "Sandalwood",
+        "Clary Sage",
+        "Palmarosa",
+        "Bergamot",
+        "Lavender",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Bereavement",
+      "oils": [
+        "Marjoram Sweet",
+        "Frankincense",
+        "Spikenard",
+        "Jasmine",
+        "Cypress",
+        "Melissa",
+        "Neroli",
+        "Myrrh"
+      ]
+    },
+    {
+      "name": "Claustrophobia",
+      "oils": [
+        "Frankincense",
+        "Sandalwood",
+        "Clary Sage",
+        "Cardamom",
+        "Geranium",
+        "Bergamot",
+        "Mandarin",
+        "Neroli"
+      ]
+    },
+    {
+      "name": "Depression",
+      "oils": [
+        "Roman Chamomile",
+        "Sweet Orange",
+        "Geranium",
+        "Bergamot",
+        "Rosemary",
+        "Melissa",
+        "Neroli",
+        "Yuzu"
+      ]
+    },
+    {
+      "name": "Exhaustion",
+      "oils": [
+        "Litsea Cubeba",
+        "Black Pepper",
+        "Peppermint",
+        "Cardamom",
+        "Rosemary",
+        "Vetiver",
+        "Basil",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Fear",
+      "oils": [
+        "Frankincense",
+        "Juniper",
+        "Ylang Ylang",
+        "Atlas Cedar",
+        "Palmarosa",
+        "Cypress",
+        "Thyme",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Frustration",
+      "oils": [
+        "Roman Chamomile",
+        "Sweet Orange",
+        "Frankincense",
+        "Ylang Ylang",
+        "Grapefruit",
+        "Bergamot",
+        "Lavender",
+        "Yuzu"
+      ]
+    },
+    {
+      "name": "Grief",
+      "oils": [
+        "Marjoram Sweet",
+        "Sweet Orange",
+        "Clary Sage",
+        "Violet Leaf",
+        "Bergamot",
+        "Cypress",
+        "Yarrow",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Guilt",
+      "oils": [
+        "Marjoram Sweet",
+        "Juniper",
+        "Ylang Ylang",
+        "Cardamom",
+        "Jasmine",
+        "Cypress",
+        "Lemon",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Hysteria",
+      "oils": [
+        "Roman Chamomile",
+        "Marjoram Sweet",
+        "Frankincense",
+        "Clary Sage",
+        "Spikenard",
+        "Lavender",
+        "Melissa",
+        "Neroli"
+      ]
+    },
+    {
+      "name": "Impatience",
+      "oils": [
+        "Frankincense",
+        "Sandalwood",
+        "Ylang Ylang",
+        "Atlas Cedar",
+        "Peppermint",
+        "Bergamot",
+        "Lavender",
+        "Vetiver"
+      ]
+    },
+    {
+      "name": "Indecision",
+      "oils": [
+        "Atlas Cedar",
+        "Peppermint",
+        "Clary Sage",
+        "Rosemary",
+        "Grapefruit",
+        "Bergamot",
+        "Ginger",
+        "Thyme"
+      ]
+    },
+    {
+      "name": "Insecurity",
+      "oils": [
+        "Juniper",
+        "Sandalwood",
+        "Bergamot",
+        "Geranium",
+        "Patchouli",
+        "Jasmine",
+        "Yarrow",
+        "Vetiver"
+      ]
+    },
+    {
+      "name": "Irritability",
+      "oils": [
+        "Roman Chamomile",
+        "Sweet Orange",
+        "Ylang Ylang",
+        "Peppermint",
+        "Clary Sage",
+        "Spikenard",
+        "Geranium",
+        "Neroli"
+      ]
+    },
+    {
+      "name": "Jealousy",
+      "oils": [
+        "Marjoram Sweet",
+        "Sandalwood",
+        "Helichrysum",
+        "Atlas Cedar",
+        "Palmarosa",
+        "Cypress",
+        "Lemon",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Loneliness",
+      "oils": [
+        "Marjoram Sweet",
+        "Juniper",
+        "Clary Sage",
+        "Rosemary",
+        "Angelica",
+        "Benzoin",
+        "Elemi",
+        "Myrrh"
+      ]
+    },
+    {
+      "name": "Mood Swings",
+      "oils": [
+        "Atlas Cedar",
+        "Clary Sage",
+        "Palmarosa",
+        "Coriander",
+        "Geranium",
+        "Bergamot",
+        "Patchouli",
+        "Vetiver"
+      ]
+    },
+    {
+      "name": "Negativity",
+      "oils": [
+        "Sweet Orange",
+        "Juniper",
+        "Helichrysum",
+        "Laurel Leaf",
+        "Clary Sage",
+        "Bergamot",
+        "Neroli",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Panic",
+      "oils": [
+        "Roman Chamomile",
+        "Frankincense",
+        "Ylang Ylang",
+        "Clary Sage",
+        "Spikenard",
+        "Lavender",
+        "Vetiver",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Regret",
+      "oils": [
+        "Sandalwood",
+        "Helichrysum",
+        "Grapefruit",
+        "Spikenard",
+        "Lemon",
+        "Yarrow",
+        "Rose",
+        "Yuzu"
+      ]
+    },
+    {
+      "name": "Restlessness",
+      "oils": [
+        "Marjoram Sweet",
+        "Frankincense",
+        "Clary Sage",
+        "Spikenard",
+        "Lavender",
+        "Vetiver",
+        "Neroli",
+        "Myrrh"
+      ]
+    },
+    {
+      "name": "Sadness",
+      "oils": [
+        "Sweet Orange",
+        "Juniper",
+        "Grapefruit",
+        "Coriander",
+        "Rosemary",
+        "Bergamot",
+        "Cypress",
+        "Pine"
+      ]
+    },
+    {
+      "name": "Self Confidence",
+      "oils": [
+        "Ylang Ylang",
+        "Atlas Cedar",
+        "Laurel Leaf",
+        "Grapefruit",
+        "Rosemary",
+        "Jasmine",
+        "Ginger",
+        "Yuzu"
+      ]
+    },
+    {
+      "name": "Shock",
+      "oils": [
+        "Roman Chamomile",
+        "Marjoram Sweet",
+        "Frankincense",
+        "Ylang Ylang",
+        "Peppermint",
+        "Lavender",
+        "Melissa",
+        "Neroli"
+      ]
+    },
+    {
+      "name": "Stress",
+      "oils": [
+        "Marjoram Sweet",
+        "Virginian Cedar",
+        "Juniper",
+        "Sandalwood",
+        "Clary Sage",
+        "Geranium",
+        "Vetiver",
+        "Basil"
+      ]
+    },
+    {
+      "name": "Tantrums",
+      "oils": [
+        "Roman Chamomile",
+        "Helichrysum",
+        "Clary Sage",
+        "Bergamot",
+        "Lavender",
+        "Mandarin",
+        "Yarrow",
+        "Rose"
+      ]
+    },
+    {
+      "name": "Worry",
+      "oils": [
+        "Marjoram Sweet",
+        "Roman Chamomile",
+        "Juniper",
+        "Frankincense",
+        "Sandalwood",
+        "Clary Sage",
+        "Coriander",
+        "Benzoin"
+      ]
+    }
+  ]
+}
